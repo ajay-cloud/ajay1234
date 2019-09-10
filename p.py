@@ -1,2 +1,3 @@
-("Enter your name")
-("New file has been added")
+print("Enter your name")
+
+print("New file has been added")
